@@ -34,6 +34,8 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ericlys&show_icons=true&theme=nightowl" alt="eric's stats"/>
 </p>
 
+![Snake animation](https://github.com/ericlys/ericlys/blob/output/github-contribution-grid-snake.svg)
+
 ##
 
 <p align="center" style="background:blue">
