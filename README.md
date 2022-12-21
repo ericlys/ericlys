@@ -6,7 +6,7 @@
 
 <!-- - 🔭  I’m currently working on [Rocketseat](https://github.com/rocketseat/) -->
 
-- 🌱  I’m always studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS**
+- 🌱  I’m always studying **JavaScript, ReactJS (NextJS), React Native, TypeScript, NodeJS (Nest)**
 
 <!-- - 💬  Ask me about **Linux 🐧 or macOS 🍎** -->
 
