@@ -4,13 +4,13 @@
 
 </p>
 
-<!-- - 🔭  I’m currently working on [Rocketseat](https://github.com/rocketseat/) -->
+- 🔭  I’m currently Freelancer
 
 - 🌱  I’m always studying **JavaScript, ReactJS (NextJS), React Native, TypeScript, NodeJS (Nest)**
 
-<!-- - 💬  Ask me about **Linux 🐧 or macOS 🍎** -->
+- 💬  Ask me about **Linux 🐧**
 
-<!-- - 🚀  How to reach me  [.dev](https://) -->
+- 🚀  How to reach me  [.dev](https://up-portfolio.vercel.app/)
 
 <br>
 
