@@ -1,7 +1,7 @@
-<!-- ### Hi there 👋 -->
+<!-- ### Hi there 👋
   ![Header](.github/workflows/github-header-image.png)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ericlys&color=blueviolet" alt="Profile views" /> 
-
+ -->
 </p>
 
 - 🔭  I’m currently Freelancer
